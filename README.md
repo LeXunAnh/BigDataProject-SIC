@@ -1,3 +1,8 @@
-Đề tài : Phân tích dữ liệu tài chính và thương mại điện tử
-n/Ngôn ngữ lập trình : Python
-n/IDE : Jupyter Notebook
+# 1.Giới thiệu:
+Đề tài kết thúc khóa học SIC
+# 2.Chủ đề:
+Phân tích dữ liệu tài chính và thương mại điện tử
+# 3.Ngôn ngữ:
+Python
+#IDE
+Jupyter Notebook
