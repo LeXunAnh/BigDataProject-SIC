@@ -1,3 +1,3 @@
 Đề tài : Phân tích dữ liệu tài chính và thương mại điện tử
-Ngôn ngữ lập trình : Python
-IDE : Jupyter Notebook
+n/Ngôn ngữ lập trình : Python
+n/IDE : Jupyter Notebook
