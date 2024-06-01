@@ -4,5 +4,5 @@
 Phân tích dữ liệu tài chính và thương mại điện tử
 # 3.Ngôn ngữ:
 Python
-#IDE
+# 4.IDE
 Jupyter Notebook
